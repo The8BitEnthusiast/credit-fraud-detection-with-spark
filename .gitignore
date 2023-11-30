@@ -15,6 +15,7 @@ spark-warehouse/
 # Misc files
 _SUCCESS
 .ipynb_checkpoints/
+events/
 
 # Compiled source #
 ###################
